@@ -1,0 +1,37 @@
+body {
+    border-bottom: 1px solid grayl;
+    text-align: center;
+}
+h4 {
+     border-bottom: 1px solid grayl;
+    text-align: center;
+}
+ul.a {
+    list-style-position: inside;
+}
+
+ul.b{
+    list-style-position: inside;
+}
+
+div {
+    font-size: x-large;
+}
+
+body {
+    background-color: darkkhaki;
+    background-blend-mode: darken;
+}
+
+p {
+    font-size: large;
+}
+
+p.a {
+    font: italic 100%/125%"Comic Sans MS", cursive;
+    font-size: xx-large;
+}
+
+div.a {
+    float: right; 
+}
